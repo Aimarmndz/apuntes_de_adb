@@ -25,6 +25,7 @@
   - [ejercicio03](ut01/03-sgbd/ejercicio03)
   - [ejercicio04](ut01/03-sgbd/ejercicio04)
 
+---
 
 ### UT02: Modelo Relacional y Normalización
 
@@ -52,3 +53,26 @@
   - [image-1.png](ut02/03-Normalización/image-1.png)
   - [image-2.png](ut02/03-Normalización/image-2.png)
   - [image.png](ut02/03-Normalización/image.png)
+
+---
+
+### UT03: Comandos SQL y Configuración
+
+#### Comandos SQL
+
+- [Comandos SQL](ut03/Comandos%20SQL.md)
+
+#### Character Set y Collations
+
+- [Character Set y Collations](ut03/Character%20Set%20y%20Collations.md)
+
+---
+
+### UT04: Ejercicios SQL
+
+#### Ejercicios
+
+- [ej1-usuarios.sql](ut04/ej1-usuarios.sql)
+- [ej2-hospital.sql](ut04/ej2-hospital.sql)
+- [ej3-biblioteca.sql](ut04/ej3-biblioteca.sql)
+- [ejercicios.md](ut04/ejercicios.md)
