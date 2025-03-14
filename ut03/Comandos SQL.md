@@ -53,20 +53,16 @@ __Ejercicio 9__
 Cargar el siguiente fichero `tienda-productos.sql` en Base de Datos. Para ello utiliza el comando `SOURCE` con rutas relativas:
 
 ```sql
--- Crear la base de datos solo si no existe
 CREATE DATABASE IF NOT EXISTS tienda;
 
--- Seleccionar la base de datos
 USE tienda;
 
--- Crear la tabla `productos` solo si no existe
 CREATE TABLE IF NOT EXISTS productos (
     id INT AUTO_INCREMENT PRIMARY KEY,
     nombre VARCHAR(50),
     precio DECIMAL(10, 2)
 );
 
--- Insertar 50 registros en la tabla `productos`
 INSERT INTO productos (nombre, precio) VALUES
 ('Balón de fútbol Adidas', 29.99),
 ('Camiseta de running Nike', 24.99),
@@ -111,7 +107,7 @@ INSERT INTO productos (nombre, precio) VALUES
 ('Mochila para hidratar Camelbak', 49.99),
 ('Linterna frontal para senderismo', 19.99),
 ('Chaleco salvavidas', 34.99),
-('Pantalones de trekking impermeables', 59.99), 34.99),
+('Pantalones de trekking impermeables', 59.99),
 ('Juego de discos para pesas (20kg)', 99.99),
 ('Set de aletas de natación', 25.99),
 ('Gafas de natación Arena', 19.99),
@@ -124,7 +120,7 @@ INSERT INTO productos (nombre, precio) VALUES
 ('Pantalones de trekking impermeables', 59.99),
 ('Zapatos de trail running Salomon', 129.99),
 ('Bastones de trekking ajustables', 39.99),
-('Red portátil para bádminton'
+('Red portátil para bádminton',
 ('Zapatos de trail running Salomon', 129.99),
 ('Bastones de trekking ajustables', 39.99),
 ('Red portátil para bádminton', 44.99),
@@ -132,7 +128,6 @@ INSERT INTO productos (nombre, precio) VALUES
 ('Banda elástica de resistencia', 12.99),
 ('Set de escalada con cuerda', 299.99);
 
--- Consultar todos los productos
 SELECT * FROM productos;
 ```
 
@@ -143,20 +138,16 @@ __Ejercicio 10__
 Cargar el siguiente fichero `tienda-clientes.sql` en Base de Datos. Para ello utiliza el comando `SOURCE` con rutas absolutas:
 
 ```sql
--- Crear la base de datos solo si no existe
 CREATE DATABASE IF NOT EXISTS tienda;
 
--- Seleccionar la base de datos
 USE tienda;
 
--- Crear la tabla `clientes` solo si no existe
 CREATE TABLE IF NOT EXISTS clientes (
     id INT AUTO_INCREMENT PRIMARY KEY,
     nombre VARCHAR(50),
     correo VARCHAR(100)
 );
 
--- Insertar 50 registros en la tabla `clientes`
 INSERT INTO clientes (nombre, correo) VALUES
 ('Carlos Mendoza', 'cmendoza@example.com'),
 ('Ana López', 'analopez@example.com'),
@@ -208,7 +199,6 @@ INSERT INTO clientes (nombre, correo) VALUES
 ('Lorena Santamaría', 'lsantamaria@example.com'),
 ('Ángel Romero', 'aromero@example.com');
 
--- Consultar todos los clientes
 SELECT * FROM clientes;
 ```
 
