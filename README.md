@@ -72,7 +72,16 @@
 
 #### Ejercicios
 
-- [ej1-usuarios.sql](ut04/ej1-usuarios.sql)
-- [ej2-hospital.sql](ut04/ej2-hospital.sql)
-- [ej3-biblioteca.sql](ut04/ej3-biblioteca.sql)
-- [ejercicios.md](ut04/ejercicios.md)
+- 01-usuarios-direcciones
+  - [usuarios.sql](ut04/01-usuarios-direcciones/usuarios.sql)
+- 02-pacientes-historia-clinica
+  - [hospital.sql](ut04/02-pacientes-historia-clinica/hospital.sql)
+- 03-biblioteca-libros
+  - [biblioteca.sql](ut04/03-biblioteca-libros/biblioteca.sql)
+- 04-alumnos-asignaturas
+  - [universidad.sql](ut04/04-alumnos-asignaturas/universidad.sql)
+- 05-actores-peliculas
+  - [cine.sql](ut04/05-actores-peliculas/cine.sql)
+- 06-profesores-cursos
+  - [instituto.sql](ut04/06-profesores-cursos/instituto.sql)
+---
