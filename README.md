@@ -1,4 +1,3 @@
-
 # Apuntes de Administración de Bases de Datos
 
 
@@ -85,3 +84,42 @@
 - 06-profesores-cursos
   - [instituto.sql](ut04/06-profesores-cursos/instituto.sql)
 ---
+
+### UT05: Consultas SQL con una o varias tablas
+
+#### Ejercicios con una tabla
+
+- [Ej-Una-Tabla](ut05/Ej-Una-Tabla)
+  - [Ejercicio_1](ut05/Ej-Una-Tabla/Ejercicio_1)
+    - [Ejercicio1.sql](ut05/Ej-Una-Tabla/Ejercicio_1/Ejercicio1.sql)
+    - [Tema5-Ejercicio1.sql](ut05/Ej-Una-Tabla/Ejercicio_1/Tema5-Ejercicio1.sql)
+  - [Ejercicio_2](ut05/Ej-Una-Tabla/Ejercicio_2)
+    - [Ejercicio2.sql](ut05/Ej-Una-Tabla/Ejercicio_2/Ejercicio2.sql)
+    - [Tema5-Ejercicio2.sql](ut05/Ej-Una-Tabla/Ejercicio_2/Tema5-Ejercicio2.sql)
+  - [Ejercicio_3](ut05/Ej-Una-Tabla/Ejercicio_3)
+    - [Ejercicio3.sql](ut05/Ej-Una-Tabla/Ejercicio_3/Ejercicio3.sql)
+    - [Tema5-Ejercicio3.sql](ut05/Ej-Una-Tabla/Ejercicio_3/Tema5-Ejercicio3.sql)
+  - [Ejercicio_4](ut05/Ej-Una-Tabla/Ejercicio_4)
+    - [Ejercicio4.sql](ut05/Ej-Una-Tabla/Ejercicio_4/Ejercicio4.sql)
+    - [Tema5-Ejercicio4.sql](ut05/Ej-Una-Tabla/Ejercicio_4/Tema5-Ejercicio4.sql)
+  - [Ejercicio_5](ut05/Ej-Una-Tabla/Ejercicio_5)
+    - [Ejercicio5.sql](ut05/Ej-Una-Tabla/Ejercicio_5/Ejercicio5.sql)
+    - [universidad-data.sql](ut05/Ej-Una-Tabla/Ejercicio_5/universidad-data.sql)
+  - [Ejercicio_6](ut05/Ej-Una-Tabla/Ejercicio_6)
+    - [Ejercicio6.sql](ut05/Ej-Una-Tabla/Ejercicio_6/Ejercicio6.sql)
+    - [shakila-es-data.sql](ut05/Ej-Una-Tabla/Ejercicio_6/shakila-es-data.sql)
+    - [shakila-es-schema.sql](ut05/Ej-Una-Tabla/Ejercicio_6/shakila-es-schema.sql)
+
+#### Ejercicios con varias tablas
+
+- [Ejercicios-Varias-Tablas](ut05/Ejercicios-Varias-Tablas)
+  - [Ejercicio_1](ut05/Ejercicios-Varias-Tablas/Ejercicio_1)
+    - [Ejercicio1.sql](ut05/Ejercicios-Varias-Tablas/Ejercicio_1/Ejercicio1.sql)
+  - [Ejercicio_2](ut05/Ejercicios-Varias-Tablas/Ejercicio_2)
+    - [Ejercicio2.sql](ut05/Ejercicios-Varias-Tablas/Ejercicio_2/Ejercicio2.sql)
+  - [Ejercicio_3](ut05/Ejercicios-Varias-Tablas/Ejercicio_3)
+    - [Ejercicio3.sql](ut05/Ejercicios-Varias-Tablas/Ejercicio_3/Ejercicio3.sql)
+  - [Ejercicio_4](ut05/Ejercicios-Varias-Tablas/Ejercicio_4)
+    - [Ejercicio4.sql](ut05/Ejercicios-Varias-Tablas/Ejercicio_4/Ejercicio4.sql)
+  
+  ---
